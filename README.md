@@ -10,7 +10,8 @@ This package includes the protobuf bindings (`remote_pb2`, `types_pb2`) along wi
 You can install it directly from PyPI:
 
 ```bash
-pip install remote-pb2
+pip install remote_pb2
+```
 
 
 ## Package Structure
