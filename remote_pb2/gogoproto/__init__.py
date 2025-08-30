@@ -1,1 +1,1 @@
-from .gogo_pb2 import *
+from . import gogo_pb2

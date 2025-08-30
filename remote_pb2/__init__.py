@@ -1,3 +1,4 @@
-from .remote_pb2 import *
-from .types_pb2 import *
+from . import remote_pb2
+from . import types_pb2
 from . import gogoproto
+
